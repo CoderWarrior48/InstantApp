@@ -1,6 +1,4 @@
-nav{
-    li {
+nav li {
         display: inline-flex;
         background-color: blue;
-    }
 }
